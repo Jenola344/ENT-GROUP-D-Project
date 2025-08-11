@@ -92,4 +92,5 @@ Open a pull request or issue — we'd love to grow JobFlow with your help.
 
 > “Simplify hiring. Empower applicants.”
 
+this is the future of workflow 
 
